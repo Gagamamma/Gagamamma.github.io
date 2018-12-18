@@ -33,17 +33,18 @@ display:flex;
 }
 
 main{
-width:80%;
+width:90%;
 height:375px;
 font-family: "Times New Roman", Times, serif;
 
 }
 
 aside{
-  width:20%;
+  width:10%;
   height: 375px;
-  //background-color:brown;
+  background-color:#000899;
   font-family: "Times New Roman", Times, serif;
+
 }
 
 footer{
