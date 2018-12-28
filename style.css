@@ -12,12 +12,12 @@ border-top-left-radius:20px;
 border-top-right-radius:20px;
 text-align: center;
 color:#000000;
-font-size: 40px;
+font-size: 35px;
 font-family: "Times New Roman", Times, serif;
 }
 
 nav{
-word-spacing: 10px;
+word-spacing: 5px;
 width:100%;
 height: 80px;
 //background-color: #47B1FF;
@@ -40,6 +40,7 @@ width:92%;
 height:375px;
 font-family: "Times New Roman", Times, serif;
 background-color: #ffffff
+
 
 }
 
@@ -66,12 +67,13 @@ footer{
 
 }
 body{
-  background-color:#000899;
+  //background-color:#000899;
+  background-color: #2A9AFF;
 }
 
 a{
   text-decoration: none;
-  font-size:40px;
+  font-size:30px;
 }
 /* unvisited link */
 a:link {
